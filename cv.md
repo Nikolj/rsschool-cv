@@ -3,7 +3,7 @@
 ## My Contact Info
 
 * **Address:** Brest, Belarus
-* **Phone:** +375 29 7294141
+* **Phone:** +375-29-7294141
 * **E-mail:** frededdd@mail.ru
 * **GitHub:** Nikolj
 
